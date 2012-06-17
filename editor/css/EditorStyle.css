@@ -1,0 +1,15 @@
+
+.QWidget {
+	background: red;
+}
+
+.QPlainTextEdit{
+	background: #333333;
+	color: #999999;
+
+	border-style: outset;
+	border-width: 2px;
+	border-radius: 10px;
+	border-color: #555555;
+	min-width: 10em;
+}
